@@ -4,17 +4,19 @@ public class Calculo {
     public float alturaMedia;
     public float montagemLateral;
     public float qtdEtiquetas; 
-    public float part1;
-    public float part2;
-    public float part3;
-
     
-    public float Calculo(){
-        part1 = (float)((getAltura()) + (getAlturaMedia()) / 1000);
-        part2 = part1 * (float)(getEtiquetasUnidades());
-        part3 = part2 / (float)(getMontagemLateral());
+    
+    public Calculo(){
+        altura = 0;
+        alturaMedia = 0;
+        montagemLateral = 0;
+        qtdEtiquetas = 0; 
+       
         
-        return part3; 
+    }
+
+    public float Calculo(){        
+        return (float)(((getAltura()) + (getAlturaMedia())/ 1000) * (getEtiquetasUnidades())) / (getMontagemLateral());
         
     }
     
