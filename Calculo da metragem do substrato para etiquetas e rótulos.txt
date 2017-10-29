@@ -1,14 +1,14 @@
-# Calculo da metragem do substrato para etiquetas e rÛtulos
+# Calculo da metragem do substrato para etiquetas e r√≥tulos
 
 
-*H· um crescimento do uso da flexografia, tanto em banda larga quanto em banda estreita. Como o processo flexogr·fico evoluiu bastante nos ˙ltimos anos, principalmente em tecnologia, hoje È uma opÁ„o excelente de impress„o para embalagens, rÛtulos e etiquetas, entre outros produtos. A flexo vem conseguindo imprimir produtos que atÈ ent„o eram feitos somente em rotogravura ou offset -  Ana Carina Marcussi, presidente executiva da AssociaÁ„o Brasileira TÈcnica de Flexografia, Abflexo/FTA Brasil.
+*H√° um crescimento do uso da flexografia, tanto em banda larga quanto em banda estreita. Como o processo flexogr√°fico evoluiu bastante nos √∫ltimos anos, principalmente em tecnologia, hoje √© uma op√ß√£o excelente de impress√£o para embalagens, r√≥tulos e etiquetas, entre outros produtos. A flexo vem conseguindo imprimir produtos que at√© ent√£o eram feitos somente em rotogravura ou offset -  Ana Carina Marcussi, presidente executiva da Associa√ß√£o Brasileira T√©cnica de Flexografia, Abflexo/FTA Brasil.
 
-# DescriÁ„o 
-*Assim, surgi a ideia de um software desktop para o calculo linear necess·rio para realizaÁ„o o trabalho flexogr·fico., j· que empresas menores fazem ‡ m„o. O objetivo È agilizar o trabalho e evitar erros matem·ticos durante o calculo.   
-O software ser· desenvolvido em '<JAVA>'.
+# Descri√ß√£o 
+*Assim, surgi a ideia de um software desktop para o calculo linear necess√°rio para realiza√ß√£o o trabalho flexogr√°fico., j√° que empresas menores fazem √† m√£o. O objetivo √© agilizar o trabalho e evitar erros matem√°ticos durante o calculo.   
+O software ser√° desenvolvido em '<JAVA>'.
 
 #Cronograma.
->Outubro: Tela de calculo para o usu·rio;
->Novembro: Tabela de relatÛrio dos c·lculos feitos durante o mÍs;
+>30/10/2017: Tela de calculo para o usu√°rio;
+>27/11/2017: Tabela de relat√≥rio dos c√°lculos feitos durante o m√™s;
 
-'<Integrantes:>' Adryel Klever, Carlos Eduardo, Alessandro Viana, Jose Eduardo, Wilian Rodruigues Sim„o.
+'<Integrantes:>' Adryel Klever, Carlos Eduardo, Alessandro Viana, Jose Eduardo, Wilian Rodruigues Sim√£o.
