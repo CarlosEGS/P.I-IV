@@ -41,13 +41,6 @@ public class CalculoMetroLinearTest extends CalculoMetroLinear {
         String[] args = null;
         CalculoMetroLinear.main(args);
         
-    }
-    
-    @Test
-    public void retornaInterfaceCliente(){
-        
-        
-    }
-    
+    }    
     
 }
