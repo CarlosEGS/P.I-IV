@@ -6,7 +6,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
+
+
 
 /**
  *
@@ -43,12 +44,10 @@ public class CalculoMetroLinearTest extends CalculoMetroLinear {
     }
     
     @Test
-    public void jButton1ActionPerformedValores(){
-        System.out.println("Depos que clicado, deve aparecer o valor final para o cliente");
-        Calculo c = new Calculo();
-        c.
-        float resultado = c.getEtiquetasUnidades();
-        assertEquals(retorna, resultado);
+    public void retornaInterfaceCliente(){
+        
+        
     }
+    
     
 }
