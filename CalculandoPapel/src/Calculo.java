@@ -1,20 +1,27 @@
 
 public class Calculo {
-    public float altura;
-    public float alturaMedia;
-    public float montagemLateral;
-    public float qtdEtiquetas; 
+    public float altura = 40;
+    public float alturaMedia = 2;
+    public float montagemLateral = 3;
+    public float qtdEtiquetas = 100; 
+   
     
     
-    public Calculo(){
-        altura = 0;
-        alturaMedia = 0;
-        montagemLateral = 0;
-        qtdEtiquetas = 0; 
-       
+    
+    
+    public int somaDivisao(int a, int b){
+        return  (a+b)/100;
         
     }
-
+    
+    public int somaDivisaoMutiplicacao(int a, int b, int c){
+        return ((a+b)/100) * c;
+    }
+    
+    public int somaDivisiaoMutiplicacaoDivisao(int a, int b, int c, int d){
+        return (((a+b)/100) * c) / d;
+    }
+    
     public float Calculo(){        
         return (float)(((getAltura()) + (getAlturaMedia())/ 1000) * (getEtiquetasUnidades())) / (getMontagemLateral());
         

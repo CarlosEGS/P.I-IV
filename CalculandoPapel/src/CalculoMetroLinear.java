@@ -125,7 +125,7 @@ public class CalculoMetroLinear extends javax.swing.JFrame {
                 new CalculoMetroLinear().setVisible(true);
             }
         });
-    }
+    } 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private java.awt.TextArea campoValor;
